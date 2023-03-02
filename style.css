@@ -1,4 +1,4 @@
-body {
+main {
     background-color: #d5e1ef;
     display: flex;
     align-items: center;
@@ -30,6 +30,7 @@ body {
 
 .card__content h1 {
     padding: 0 15px 0 15px;
+    font-size: 25px;
 }
 
 .card__content p {
