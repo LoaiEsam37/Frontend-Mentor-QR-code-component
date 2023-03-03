@@ -29,13 +29,13 @@ main {
 }
 
 .card__content h1 {
-    padding: 0 15px 0 15px;
+    padding: 0 60px 0 60px;
     font-size: 25px;
 }
 
 .card__content p {
     opacity: 0.6;
     font-size: large;
-    padding: 0 15px 0 15px;
+    padding: 0 60px 0 60px;
     margin-bottom: 30px;
 }
